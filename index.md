@@ -433,6 +433,6 @@ during the workshop.
 {% include lc/setup.html %}
 {% elsif site.carpentry == "incubator" %}
 Please check the "Setup" page of
-[the lesson site]({{ <a>https://carpentries-incubator.github.io/R-ecology-lesson-alternative/</a> }}) for instructions to follow
+<a href = "https://carpentries-incubator.github.io/R-ecology-lesson-alternative/"><the lesson site></a> for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
