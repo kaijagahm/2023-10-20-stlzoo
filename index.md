@@ -59,7 +59,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 This block contains the link to the registration form.
 {% endcomment %}
 
-<h2 style="color:blue;front-size:40px;"><a href="stlzoo.org/r-workshop">Register Here</a></h2>
+<h2 style="color:blue;front-size:40px;"><a href="https://stlzoo.formstack.com/forms/r_workshop">Register Here</a></h2>
 
 <h2 id="general">General Information</h2>
 
