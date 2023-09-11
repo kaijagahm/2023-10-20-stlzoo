@@ -60,8 +60,7 @@ This block contains the link to the registration form.
 {% endcomment %}
 
 <div>
-  font-size: 15px;
-<b><h2 style="color:blue;front-size:40px;"><a href="stlzoo.org/r-workshop">Workshop Registration</a></b></h2>h1
+<b><h2 style="color:blue;front-size:40px;"><a href="stlzoo.org/r-workshop">Register Here</a></b></h2>
 </div>
 
 <h2 id="general">General Information</h2>
