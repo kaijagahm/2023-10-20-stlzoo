@@ -56,21 +56,13 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 {% comment %}
-EVENTBRITE
-
-This block includes the Eventbrite registration widget if
-'eventbrite' has been set in the header.  You can delete it if you
-are not using Eventbrite, or leave it in, since it will not be
-displayed if the 'eventbrite' field in the header is not set.
+This block contains the link to the registration form.
 {% endcomment %}
-<iframe
-  src="https://stlzoo.formstack.com/forms/r_workshop"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
 
+<div>
+  font-size: 15px;
+<b><h2 style="color:blue;front-size:40px;"><a href="stlzoo.org/r-workshop">Workshop Registration</a></b></h2>h1
+</div>
 
 <h2 id="general">General Information</h2>
 
